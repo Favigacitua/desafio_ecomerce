@@ -15,7 +15,7 @@ header {
     display: grid;
     height: 15vh;
     width: 100vw;
-    background-image:url(/assets/img/banner.jpg);
+    background-image:url(../img/banner.jpg);
     background-position: center;
     background-size: cover;
     justify-content: center;
@@ -31,7 +31,7 @@ aside {
     flex-direction: column;
     height: 80vh;
     width: 10vw;
-    background-image: url(/assets/img/aside.jpg);
+    background-image: url(../img/aside.jpg);
     background-position: center;
     background-size: cover;
     margin: 0%;
